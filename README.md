@@ -4,14 +4,7 @@
 
 DataVision AI is a client-side analytics platform that converts CSV and Excel files into interactive dashboards through automated data profiling, data cleaning, visualization recommendations, and AI-powered insights.
 
-## Preview
-
-<!-- Replace these paths with your actual website screenshots -->
-
 ![DataVision AI Dashboard](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Home_page.png) 
-
-
-*Interactive dashboard generated from uploaded data.*
 
 ## Key Features
 
