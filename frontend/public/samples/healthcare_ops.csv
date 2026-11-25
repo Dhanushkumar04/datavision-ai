@@ -1,0 +1,16 @@
+Patient_ID,Admission_Date,Discharge_Date,Department,Age_Group,Bed_Occupancy_Days,Treatment_Cost,Insurance_Coverage_Pct,Readmission_Risk,Discharge_Outcome
+PT-401,2024-01-02,2024-01-06,Cardiology,Elderly (65+),4,8500,85%,Low,Discharged Home
+PT-402,2024-01-04,2024-01-12,Orthopedics,Adult (36-64),8,12400,90%,Medium,Discharged Home
+PT-403,2024-01-05,2024-01-08,Pediatrics,Youth (0-17),3,3200,70%,Low,Discharged Home
+PT-404,2024-01-10,2024-01-19,Neurology,Elderly (65+),9,15800,80%,High,Transferred
+PT-405,2024-01-12,2024-01-15,General Medicine,Young Adult (18-35),3,2400,60%,Low,Discharged Home
+PT-406,2024-01-15,2024-01-25,Cardiology,Adult (36-64),10,18600,95%,Medium,Discharged Home
+PT-407,2024-01-18,2024-01-21,Pediatrics,Youth (0-17),3,2900,75%,Low,Discharged Home
+PT-408,2024-01-22,2024-01-30,Orthopedics,Elderly (65+),8,11200,85%,Medium,Discharged Rehab
+PT-409,2024-01-26,2024-01-29,General Medicine,Adult (36-64),3,3100,50%,Low,Discharged Home
+PT-410,2024-02-01,2024-02-14,Neurology,Elderly (65+),13,22400,90%,High,Discharged Rehab
+PT-411,2024-02-03,2024-02-07,Cardiology,Adult (36-64),4,7900,80%,Low,Discharged Home
+PT-412,2024-02-06,2024-02-11,Orthopedics,Young Adult (18-35),5,6800,70%,Low,Discharged Home
+PT-413,2024-02-10,2024-02-18,General Medicine,Elderly (65+),8,9200,85%,High,Transferred
+PT-414,2024-02-14,2024-02-18,Pediatrics,Youth (0-17),4,4100,90%,Low,Discharged Home
+PT-415,2024-02-19,2024-02-27,Cardiology,Elderly (65+),8,14200,85%,Medium,Discharged Home

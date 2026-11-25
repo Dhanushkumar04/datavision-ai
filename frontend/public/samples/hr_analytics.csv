@@ -1,0 +1,21 @@
+Employee_ID,Full_Name,Department,Job_Title,Hire_Date,Salary,Performance_Score,Attrition,Gender,Education_Level,City
+EMP-8001,Ananya Roy,Engineering,Senior Software Engineer,2021-03-15,145000,4.8,No,Female,Master's,Bangalore
+EMP-8002,Karthik Nair,Sales,Account Executive,2022-06-01,88000,4.2,No,Male,Bachelor's,Mumbai
+EMP-8003,Deepika Rao,Marketing,Content Strategist,2020-01-10,76000,3.9,Yes,Female,Bachelor's,Delhi
+EMP-8004,Siddharth Verma,Engineering,DevOps Lead,2019-11-20,165000,4.9,No,Male,Master's,Bangalore
+EMP-8005,Meera Nambiar,Human Resources,HR Business Partner,2022-09-05,92000,4.4,No,Female,Master's,Hyderabad
+EMP-8006,Rohan Gupta,Product,Product Manager,2021-07-18,138000,4.6,No,Male,Master's,Bangalore
+EMP-8007,Pooja Hegde,Finance,Financial Analyst,2023-02-14,82000,3.8,No,Female,Bachelor's,Mumbai
+EMP-8008,Aditya Joshi,Sales,Sales Director,2018-04-01,175000,4.7,No,Male,Master's,Delhi
+EMP-8009,Neha Saxena,Engineering,Frontend Engineer,2023-08-10,95000,4.1,No,Female,Bachelor's,Pune
+EMP-8010,Vikram Singhania,Operations,Operations Manager,2020-10-12,110000,4.3,Yes,Male,Bachelor's,Chennai
+EMP-8011,Swati Kulkarni,Customer Support,Support Lead,2022-01-22,68000,4.5,No,Female,Bachelor's,Pune
+EMP-8012,Arjun Malhotra,Marketing,Growth Marketer,2021-11-05,89000,4.0,No,Male,Bachelor's,Delhi
+EMP-8013,Shreya Bhatt,Engineering,Backend Engineer,2022-04-15,105000,4.6,No,Female,Bachelor's,Bangalore
+EMP-8014,Tanmay Deshmukh,Sales,BDR Specialist,2023-11-01,62000,3.6,Yes,Male,Bachelor's,Mumbai
+EMP-8015,Divya Krishnan,Product,UI/UX Designer,2021-08-20,98000,4.7,No,Female,Master's,Hyderabad
+EMP-8016,Manish Tiwari,Finance,Accounting Lead,2019-05-14,128000,4.4,No,Male,Master's,Kolkata
+EMP-8017,Preeti Chawla,Engineering,QA Automation Engineer,2022-10-03,88000,4.2,No,Female,Bachelor's,Bangalore
+EMP-8018,Harsh Vardhan,Operations,Logistics Coordinator,2023-04-18,58000,3.7,No,Male,Bachelor's,Chennai
+EMP-8019,Ritu Sengupta,Human Resources,Talent Acquisition Lead,2020-03-01,96000,4.5,No,Female,Master's,Kolkata
+EMP-8020,Gaurav Bansal,Engineering,Staff Architect,2017-02-15,195000,4.9,No,Male,Doctorate,Bangalore

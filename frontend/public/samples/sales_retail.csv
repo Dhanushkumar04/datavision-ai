@@ -1,0 +1,26 @@
+Order_ID,Order_Date,Customer_Name,City,Region,Product_Category,Product_Name,Quantity,Unit_Price,Total_Sales,Discount_Pct,Profit,Sales_Rep
+ORD-1001,2024-01-05,Alpha Corp,Bangalore,South,Electronics,Ultra Pro Laptop,2,1200,2400,5%,360,Rajesh Kumar
+ORD-1002,2024-01-08,Beta Retail,Mumbai,West,Furniture,Ergonomic Chair,5,180,900,10%,135,Priya Sharma
+ORD-1003,2024-01-12,Zenith Ltd,Delhi,North,Office Supplies,Gel Pen Set 50x,15,25,375,0%,112,Amit Patel
+ORD-1004,2024-01-15,Delta Logistics,Chennai,South,Technology,Wireless Mouse M5,8,45,360,5%,72,Rajesh Kumar
+ORD-1005,2024-01-20,Apex Enterprises,Hyderabad,South,Furniture,Standing Desk Pro,3,450,1350,15%,202,Sneha Reddy
+ORD-1006,2024-01-26,Omicron Media,Kolkata,East,Electronics,Noise Cancel Headset,4,150,600,0%,150,Vikram Sen
+ORD-1007,2024-02-02,Sigma Solutions,Pune,West,Technology,27-inch 4K Monitor,3,380,1140,5%,228,Priya Sharma
+ORD-1008,2024-02-07,Vertex Global,Bangalore,South,Office Supplies,Heavy Duty Shredder,2,220,440,10%,66,Rajesh Kumar
+ORD-1009,2024-02-14,Nova Health,Delhi,North,Electronics,Ultra Pro Laptop,1,1200,1200,8%,144,Amit Patel
+ORD-1010,2024-02-19,Pioneer Tech,Gurugram,North,Furniture,Ergonomic Chair,10,180,1800,12%,216,Amit Patel
+ORD-1011,2024-02-25,Titan Retail,Mumbai,West,Office Supplies,Copy Paper 10 Reams,20,35,700,5%,140,Priya Sharma
+ORD-1012,2024-03-03,Kalyan Traders,Hyderabad,South,Technology,Mechanical Keyboard,6,95,570,0%,142,Sneha Reddy
+ORD-1013,2024-03-10,Nexus Digital,Chennai,South,Electronics,Noise Cancel Headset,5,150,750,10%,112,Sneha Reddy
+ORD-1014,2024-03-16,Falcon Systems,Kolkata,East,Furniture,Executive Office Desk,2,650,1300,5%,260,Vikram Sen
+ORD-1015,2024-03-22,Summit Infotech,Pune,West,Office Supplies,Filing Cabinet 4-Drawer,3,190,570,0%,114,Priya Sharma
+ORD-1016,2024-03-29,Vanguard Labs,Bangalore,South,Technology,Wireless Mouse M5,12,45,540,15%,54,Rajesh Kumar
+ORD-1017,2024-04-05,Alpha Corp,Bangalore,South,Electronics,27-inch 4K Monitor,4,380,1520,5%,304,Rajesh Kumar
+ORD-1018,2024-04-12,Zenith Ltd,Delhi,North,Furniture,Standing Desk Pro,2,450,900,0%,180,Amit Patel
+ORD-1019,2024-04-18,Aura Retail,Ahmedabad,West,Office Supplies,Gel Pen Set 50x,25,25,625,10%,156,Priya Sharma
+ORD-1020,2024-04-25,Matrix Tech,Hyderabad,South,Electronics,Ultra Pro Laptop,3,1200,3600,10%,432,Sneha Reddy
+ORD-1021,2024-05-02,BlueStar Enterprises,Mumbai,West,Technology,Mechanical Keyboard,8,95,760,5%,152,Priya Sharma
+ORD-1022,2024-05-09,Delta Logistics,Chennai,South,Furniture,Ergonomic Chair,6,180,1080,10%,162,Rajesh Kumar
+ORD-1023,2024-05-15,Zenith Ltd,Delhi,North,Office Supplies,Heavy Duty Shredder,1,220,220,0%,55,Amit Patel
+ORD-1024,2024-05-22,Omicron Media,Kolkata,East,Technology,Wireless Mouse M5,10,45,450,5%,90,Vikram Sen
+ORD-1025,2024-05-29,Apex Enterprises,Hyderabad,South,Electronics,Noise Cancel Headset,6,150,900,8%,135,Sneha Reddy
