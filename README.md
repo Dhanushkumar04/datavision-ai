@@ -8,7 +8,9 @@ DataVision AI is a client-side analytics platform that converts CSV and Excel fi
 
 <!-- Replace these paths with your actual website screenshots -->
 
-![DataVision AI Dashboard](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Home_page.png) (https://github.com/Dhanushkumar04/datavision-ai/blob/main/Upload_dataset.png)
+![DataVision AI Dashboard Home Page](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Home_page.png) 
+![DataVision AI Dashboard Upload dataset Page](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Upload_dataset.png)
+
 
 *Interactive dashboard generated from uploaded data.*
 
