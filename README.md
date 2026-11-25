@@ -8,8 +8,7 @@ DataVision AI is a client-side analytics platform that converts CSV and Excel fi
 
 <!-- Replace these paths with your actual website screenshots -->
 
-![DataVision AI Dashboard Home Page](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Home_page.png) 
-![DataVision AI Dashboard Upload dataset Page](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Upload_dataset.png)
+![DataVision AI Dashboard](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Home_page.png) 
 
 
 *Interactive dashboard generated from uploaded data.*
@@ -33,15 +32,15 @@ DataVision AI is a client-side analytics platform that converts CSV and Excel fi
 
 | Data Upload | Data Profiling |
 |---|---|
-| ![Upload](assets/screenshots/upload.png) | ![Profiling](assets/screenshots/profiling.png) |
+| ![Upload](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Upload_dataset.png) | ![Profiling](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Data_profile.png)) |
 
 | Data Quality Analysis | Interactive Dashboard |
 |---|---|
-| ![Data Quality](assets/screenshots/data-quality.png) | ![Dashboard](assets/screenshots/dashboard.png) |
+| ![Data Quality](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Data_Quality.png) | ![Dashboard](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Dashboard_page.png) |
 
-| AI Insights | Custom Dashboard |
+| AI Insights | Report |
 |---|---|
-| ![AI Insights](assets/screenshots/ai-insights.png) | ![Custom Dashboard](assets/screenshots/custom-dashboard.png) |
+| ![AI Insights](https://github.com/Dhanushkumar04/datavision-ai/blob/main/AI_Analytics_Copilot.png) | ![Report](https://github.com/Dhanushkumar04/datavision-ai/blob/main/Report_page.png) |
 
 ## Technology Stack
 
@@ -87,7 +86,7 @@ npm run build
 
 The application is deployed using **Vercel**.
 
-**Live Demo:** YOUR_VERCEL_DEPLOYMENT_URL
+**Live Demo:** https://datavision-ai-steel.vercel.app/
 
 ## Project Highlights
 
